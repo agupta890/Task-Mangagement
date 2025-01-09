@@ -31,7 +31,6 @@ The **Employee Task Management System** is a robust web application built with *
 Use the following credentials to test the application:  
 
 ### Admin Login:  
-- **Link**: employee-task-management6.netlify.app
 - **Username**: `admin@me.com`  
 - **Password**: `123`  
 
